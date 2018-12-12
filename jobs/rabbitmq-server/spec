@@ -5,6 +5,7 @@ packages:
 - erlang
 - rabbitmq-server-3.6
 - rabbitmq-server-3.7
+- rabbitmq-server-3.8
 - rabbitmq-common
 - rabbitmq-upgrade-preparation
 - rabbitmq-admin
